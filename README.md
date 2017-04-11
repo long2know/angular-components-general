@@ -1,1 +1,1 @@
-# angular2-components-general
+# angular-components-general
